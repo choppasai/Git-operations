@@ -2,4 +2,4 @@ git inti - intiate or reinitiate git repo or directory
 
 git add - will track untracked file // branch 2
 git branch - will create new branch
-git merge will merge two branches
+git merge will merge two branches.
