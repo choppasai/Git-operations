@@ -2,3 +2,4 @@ git inti - intiate or reinitiate git repo or directory
 
 git add - will track untracked file // branch 2
 git branch - will create new branch
+this line is only present in second branch
