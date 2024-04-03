@@ -3,3 +3,4 @@ git inti - intiate or reinitiate git repo or directory
 git add - will track untracked file // branch 2
 git branch - will create new branch
 git checkout <branchname> - will go to respective branch // master
+git log --graph --all  -> will show all commits in graph format
