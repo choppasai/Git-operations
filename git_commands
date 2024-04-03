@@ -1,6 +1,8 @@
+Git is a version control system (vcs)
 git inti - intiate or reinitiate git repo or directory
-
 git add - will track untracked file // branch 2
 git branch - will create new branch
 this line is only present in second branch
 git merge will merge two branches.
+git rebase - will add the branch to the head branch without any commit. But in merge there will be a commit.
+            and main purpose of rebase is to keep commits and branches in clean manner.
