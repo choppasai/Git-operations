@@ -5,4 +5,4 @@ git branch - will create new branch
 git checkout <branchname> - will go to respective branch // master
 git log --graph --all  -> will show all commits in graph format
 this line is only present in second branch
-
+git merge will merge two branches
